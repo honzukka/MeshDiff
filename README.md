@@ -2,7 +2,7 @@
 
 <img width=900 src="https://user-images.githubusercontent.com/24512922/39631306-1ce815c2-4fb2-11e8-86b0-6ad68a50663b.png">
 
-MeshDiff is a graphical program running on Windows operating systems which
+MeshDiff is a graphical program (.NET + OpenTK) running on Windows operating systems which
 allows its users to interactively view two homologous triangle meshes in .ply
 or .obj format and visualize the difference between them. MeshDiff has various
 color-based, arrow-based and combined visualizations available. Once the user
