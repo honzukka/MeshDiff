@@ -579,8 +579,6 @@ namespace meshDiff
 			trackball2.GLsetupViewport(glControl2.Width, glControl2.Height, near, far);
 
 			control2Loaded = true;
-			// HACK: the way this event handler is registered is not nice but it works!
-			//Application.Idle += new EventHandler(Application_Idle);
 		}
 
 		private void glControl2_KeyDown(object sender, KeyEventArgs e)
